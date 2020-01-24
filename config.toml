@@ -3,3 +3,5 @@ baseURL = "/"
 
 languageCode = "en-gb"
 title = "Ideas on Board"
+themesDir = "themes"
+theme = "hugo-serif-theme"
