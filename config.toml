@@ -14,17 +14,17 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo-mobile.svg"
     standard  = "images/logo.svg"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Ideas on Board"
 
   [params.homepage_meta_tags]
-    meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-    meta_og_title = "Hugo Serif Theme"
+    meta_description = "Ideas on Board provide open source consulting and upstream integration services."
+    meta_og_title = "Ideas on Board"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-serif.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-    meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+    meta_og_url = "https://www.ideasonboard.com.com"
+    meta_og_image = "image/logo.svg"
+    meta_og_description = "Ideas on Board provide open source consulting and upstream integration services."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@libcamera"
+    meta_twitter_site = "@ideasonboard"
     meta_twitter_creator = "@ideasonboard"
 
 [menu]
