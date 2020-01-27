@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Development",
+    "description": "Helping you create new and unique products.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Community",
+    "description": "Supporting the wider open source community.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Maintenance",
+    "description": "Ensuring the longevity of Open Source code.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
