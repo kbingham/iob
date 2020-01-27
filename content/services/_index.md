@@ -5,6 +5,7 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# Services that grow with your business
+# Supporting you in an open source world
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Open source can accelerate your development but can be a daunting space.
+Our experience and expertise helps you make the most of community driven projects.
